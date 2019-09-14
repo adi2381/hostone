@@ -1,6 +1,6 @@
 # Hostone - Minimal Template
 A minimal template for agency or personal website created with Html, Css, JS Libraries for frontend and PHP for backend.
-I built this website as a personal project first but got good reviews for it, so, changed the structure here and there and developed it into a minimal templalte for budding agencies to use.
+I built this website as a personal project first but got good reviews for it from peers, so, changed the structure here and there and developed it into a minimal templalte for budding agencies to use.
 
 ## Technologies
 * HTML 5
@@ -11,7 +11,4 @@ I built this website as a personal project first but got good reviews for it, so
 
 ## Project Status
 Completed
-
----
-permalink: /index.php
 
