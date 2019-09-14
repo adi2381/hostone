@@ -12,6 +12,3 @@ I built this website as a personal project first but got good reviews for it, so
 ## Project Status
 Completed
 
----
-permalink: /index.php
-
